@@ -3,8 +3,6 @@ URxvt.shading: 15
 URxvt.font: xft:Source Code Pro:size=16
 
 
-! http://ethanschoonover.com/solarized
-
 ! Dark
 
 URxvt.foreground: #dab749
